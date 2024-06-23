@@ -1,0 +1,2 @@
+Boosting Ensemble Learning: Developed an advanced crash classification model using boosting ensemble learning techniques (Gradient Boosting, CatBoost, XGBoost, LightGBM, and SGD), incorporating hyperparameter optimization to enhance predictive accuracy.
+High Classification Accuracy: Achieved an accuracy rate of up to 96% with the Gradient Boosting algorithm, demonstrating the model's effectiveness in classifying freeway crashes under varying traffic conditions.
